@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hello 👋
+My name is Vladimir. I'm beginner web developer. I've already finished few Python cources and I have some Django projects. I also learn HTML, CSS, JavaScript.
 <!--
 **mafusailovich/mafusailovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
